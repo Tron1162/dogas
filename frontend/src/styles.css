@@ -1,0 +1,37 @@
+/* src/styles.css */
+
+body {
+    background-color: #e0f7fa;
+    color: #007bb5;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  h1 {
+    color: #007bb5;
+  }
+  
+  input, button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #007bb5;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #007bb5;
+    color: white;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #005f8a;
+  }
